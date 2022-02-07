@@ -10,7 +10,7 @@
  in the first variable.
 */
 
-var email = "your-emial@gmail.com";
+var email = "your-email@gmail.com";
 var not_200 = [];
 
 function Check_Links() {
